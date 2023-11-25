@@ -1,3 +1,3 @@
 export function Header() {
-    return <h1>Solène PARATRE--BADOIS</h1>
+    return (<h1>Solène PARATRE--BADOIS</h1>)
 }
